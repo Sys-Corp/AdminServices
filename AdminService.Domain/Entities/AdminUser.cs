@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdminServices.Domain.Entities
 {
-    internal class AdminUser
+    public class AdminUser
     {
     }
 }
